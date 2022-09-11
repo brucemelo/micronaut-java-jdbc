@@ -1,3 +1,2 @@
 # micronaut 
-java 17
-micronaut jdbc
+java 17 with micronaut jdbc
